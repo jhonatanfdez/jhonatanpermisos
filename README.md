@@ -500,4 +500,4 @@ Le doy las gracias a Dios que me ayudó a crear este paquete para la comunidad.
 Dios les bendiga.  
 
 ## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](./LICENSE.md)
