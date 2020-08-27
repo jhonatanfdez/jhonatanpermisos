@@ -29,7 +29,7 @@ composer require jhonatanfdez/jhonatanpermisos
 Una vez instalado el paquete en laravel 7, es recomendable utilizar el siguiente comando para exportar las migraciones, archivo seeder, vistas, políticas y mucho más:
 
 ```bash
-php artisan vendor:publish --provider="Jhonatanfdez\JhonatanPermission\JhonatanPermisosServiceProvider"
+php artisan vendor:publish --provider="Jhonatanfdez\JhonatanPermisos\JhonatanPermisosServiceProvider"
 
 ```
 
