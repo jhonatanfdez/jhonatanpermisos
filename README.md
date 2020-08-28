@@ -4,17 +4,25 @@ Es un paquete que nos ayudará al manejo de roles y permisos para laravel 7 de m
 
 ## Crea tu mismo este paquete:
 
+## GRATIS EN YOUTUBE
+
 Si quieres saber paso a paso como fuimos creando la estructura que usamos en este paquete, te recomendamos ir al siguiente enlace de Youtube [Aquí](https://www.youtube.com/playlist?list=PLtg6DxcGyHSvB6xvQbacVfL83UoFEvOGz)
 
-Si luego que ya tienes la base de la creación de roles y permisos, te gustaría crear un paquete personalizado que con la ejecución de un comando como: 
+## UNICAMENTE EN UDEMY
+
+Si luego de tener la base de la creación de roles y permisos, te gustaría crear un paquete personalizado que se instalará en Laravel 7 con la ejecución del siguiente comando: 
 
 ```bash
 composer require jhonatanfdez/jhonatanpermisos
 ```
 
-Te recomendamos que adquieras el curso en udemy donde convertimos el proyecto que hicimos en youtube en un paquete. 
+Te recomendamos que adquieras el curso en udemy donde convertimos el proyecto que hicimos gratis en youtube en un paquete. 
 
-Si te gustaría aprender accede [Aquí](https://www.youtube.com/playlist?list=PLtg6DxcGyHSvB6xvQbacVfL83UoFEvOGz)
+Si te gustaría aprender como hacerlo, favor acceder [Aquí](https://www.youtube.com/playlist?list=PLtg6DxcGyHSvB6xvQbacVfL83UoFEvOGz)
+
+## Requisitos
+
+**El paquete de Laravel/ui debe estar instalado en Laravel para que funcione correctamente este paquete.**
 
 ## Instalación
 
